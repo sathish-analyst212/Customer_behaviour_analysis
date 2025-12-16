@@ -53,6 +53,9 @@ This section of the project demonstrates applied SQL for behavioral analytics, s
 The Power BI dashboard brings the analysis together visually.
 It summarizes patterns in revenue, customer groups, purchase behavior, product categories, and subscription metrics.
 This makes the insights easier for non-technical stakeholders to understand and act upon.
+![Screenshot 2025-12-16 220338](https://github.com/user-attachments/assets/bec3fa0d-90ec-49cd-a49e-2ff1ea704852)
+
+
 
 **Key Business Recommendations
 
